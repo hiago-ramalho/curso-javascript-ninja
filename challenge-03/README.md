@@ -199,5 +199,5 @@ pessoa.apresentacao = function() {
 }
 
 // Agora, apresente-se ;)
-pessoa.apresentacao() // "Olá, eu sou o Hiago Ramalho, tenho 29 anos, 1.7m de altura, meu peso é 79.9Kg e, só hoje, eu já caminhei 30 metros!"
+pessoa.apresentacao() // "Olá, eu sou o Hiago Ramalho, tenho 29 anos, 1.7m de altura, meu peso é 79.9Kg e, só hoje, eu já caminhei 6 metros!"
 ```
